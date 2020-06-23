@@ -17,7 +17,7 @@ I extracted data form the song and log dataset and inserted processed them using
 ## Project File
 1. **dl.cfg**- Contains AWS configuration (Access key and secret key.
 2. **etl.py**- It executes scripts to extract json file from S3, processes them using spark and also loading it into an S3 bucktet
-3. **READme**- Docuentation of the project.
+3. **READme**- Documentatation of the project.
 
 ### How to run the project
 1. The EMR cluster must be created.
